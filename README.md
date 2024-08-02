@@ -6,7 +6,7 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
 
-
+![alt_text](https://github.com/youssefHosni/Building-AI-Applications-with-Hugging-Face/blob/main/hugginface.png)
 
 
 |Topic |Blog |Kaggle Notebook| Youtube Video|
