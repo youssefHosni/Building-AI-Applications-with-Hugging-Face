@@ -13,3 +13,29 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 |Zero-Shot Audio Classification Using HuggingFace CLAP Open-Source Model | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/zero-shot-audio-classification-using-huggingface-clap-open-source-model-f3c8ab8ca548?sk=63d721a0e52734a73f724a4328c504e7) |[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()|
 |Building & Deploying a Speech Recognition System Using the Whisper Model & Gradio | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
+
+
+
+Step-by-Step Guide to Zero-Shot Image Classification using CLIP Model
+
+Building an Object Detection Assitant Application: A Step-by-Step Guide
+
+Building Visual Questioning Answering System Using Hugging Face Open-Source Models
+
+Building Image Captioning System using SalesForce Blip Model
+
+Building Image-to-Text Matching System Using Hugging Face Open-Source Models
+
+Building Text-to-Speech Systems Using VITS & ArTST Models
+
+
+
+Text-Based Applications 
+
+Vision Language Applications 
+
+Speech Based Applications 
+
+Image Based Applications 
+
+
