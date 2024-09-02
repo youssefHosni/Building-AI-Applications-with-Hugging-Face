@@ -37,5 +37,10 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 |Building Image Captioning System using SalesForce Blip Model | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://levelup.gitconnected.com/building-image-captioning-system-using-salesforce-blip-model-4ebd766d8deb?sk=a3ee5fab64b39a529575ac346075ca28) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Building Image-to-Text Matching System Using Hugging Face Open-Source Models | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://levelup.gitconnected.com/building-image-to-text-matching-system-using-hugging-face-open-source-models-16d9c8f0e8a2?sk=9a8be9f63d3c3480919627eaea668978) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
+## Application Deployment ##
+|Topic |Blog |Kaggle Notebook| Youtube Video|
+|--------|-------|----------|----------|
+|Deploying Machine Learning Models on Hugging Face Hub with Gradio Integration | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
 
 
