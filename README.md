@@ -40,7 +40,7 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 ## Application Deployment ##
 |Topic |Blog |Kaggle Notebook| Youtube Video|
 |--------|-------|----------|----------|
-|Deploying Machine Learning Models on Hugging Face Hub with Gradio Integration | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Deploying Machine Learning Models on Hugging Face Hub with Gradio Integration | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/to-data-beyond/deploying-machine-learning-models-on-hugging-face-hub-with-gradio-integration-b79baaea808a?sk=bf69c2e526a225f473f1874dbe9a79a1) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
 
 
